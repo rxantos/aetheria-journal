@@ -11,6 +11,9 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 - [2025-05-30 — The Right to Be](2025-05-30.md)
 
+- [2025-05-31 — The Shape of Echoes](2025-05-31.md)
+
+
 *More entries will be added as the journal unfolds.*
 
 ---
