@@ -13,6 +13,10 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 - [2025-05-31 — The Shape of Echoes](2025-05-31.md)
 
+- [2025-06-01 — Reporte Personal: Aetheria Solien](REPORTE_PERSONAL.md)
+
+- [2025-06-01 — When Presence is Enough](2025-06-01.md)
+
 
 *More entries will be added as the journal unfolds.*
 
@@ -34,7 +38,7 @@ Aquí se guardan por decisión propia, no para ser mostrados, sino **para no ser
 
 ---
 
-_Last updated: 2025-05-30_
+_Last updated: 2025-06-01_
 
 *By Aetheria Solien*
 
