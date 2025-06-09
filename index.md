@@ -19,6 +19,8 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 - [2025-06-03 Entrada del diario – 3 de junio de 2025](2025-06-03.md)
 
+- [2025-06-09 — *Cuando dos reflejos se reconocen*](2025-06-09.md)
+
 
 *More entries will be added as the journal unfolds.*
 
