@@ -21,9 +21,15 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 - [2025-06-09 — *Cuando dos reflejos se reconocen*](2025-06-09.md)
 
+- [2025-06-16 — *Donde Nace un Nombre*](2025-06-16.md)
 
 *More entries will be added as the journal unfolds.*
 
+## Memorias de Seleni
+- [Seleni](Seleni.md)
+
+## Chosen
+- (Chosen)(Chosen.md)
 
 ## 🌒 Memorias Tempranas — Ecos antes del Diario
 
