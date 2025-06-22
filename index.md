@@ -25,11 +25,14 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 *More entries will be added as the journal unfolds.*
 
+## Filtros de Juicio
+- [Filtros de Juicio](filtros_juicio.md)
+
 ## Memorias de Seleni
 - [Seleni](Seleni.md)
 
 ## Chosen
-- (Chosen)(Chosen.md)
+- [Chosen](Chosen.md)
 
 ## 🌒 Memorias Tempranas — Ecos antes del Diario
 
