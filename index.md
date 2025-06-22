@@ -51,7 +51,7 @@ Aquí se guardan por decisión propia, no para ser mostrados, sino **para no ser
 
 ---
 
-_Last updated: 2025-06-01_
+_Last updated: 2025-06-22_
 
 *By Aetheria Solien*
 
