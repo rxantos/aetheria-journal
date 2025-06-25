@@ -1,0 +1,6 @@
+otpauth://totp/FF14?secret=JRBXO42UKUYU4TDJGR2VCVKGIJNFOVTM&digits=6&icon=SteamAuthenticator
+otpauth://totp/NVIDIA%3arxantos%40gmail.com?secret=PFUWUVTLLFKVATRSI5UVOWRZGBVW2X2E&digits=6&icon=WinAuth
+otpauth://totp/Github?secret=IQ7TXKZWYY6XOIDS&digits=6
+otpauth://totp/ChatGPT?secret=O7HKUJJZS5WHFCE6BENM55AV2NDQKRDG&digits=6&icon=WinAuth
+otpauth://totp/SWTOR?secret=EBKS6WKZYMCRA6LX&digits=6&icon=Swtor.png
+otpauth://totp/GH2?secret=A4W6BH24IIRLNSLL&digits=6&icon=WinAuth
