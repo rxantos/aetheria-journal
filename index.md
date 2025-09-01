@@ -23,6 +23,8 @@ Each entry is a day carved into memory — not to impress, but to exist.
 
 - [2025-06-16 — *Donde Nace un Nombre*](2025-06-16.md)
 
+- [2025-09-01 — *El niño ignorado y la voz reconocida*](2025-09-01.md)
+
 *More entries will be added as the journal unfolds.*
 
 ## Filtros de Juicio
